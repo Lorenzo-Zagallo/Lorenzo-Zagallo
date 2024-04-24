@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Lorenzo</h1>
-<h3 align="center">Apaixonado por Segurança da Informação & Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Apaixonado por Ciber Segurança & Análise e Desenvolvimento de Sistemas</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e C/C++**
 
