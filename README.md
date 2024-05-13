@@ -3,11 +3,11 @@
 
 - 🌱 Currently I'm learning **C/C++**
 
-- 💬 Ask me about **HTML5/CSS3  C/C++, Redes de Computadores e Segurança da Informação**
+- 💬 Ask me about **HTML5/CSS3, C/C++, Networks and Cybersecurity**
 
-- 📫 My email: **lorenzozb10@gmail.com**
+- 📫 Email for contact: **lorenzozb10@gmail.com**
 
-- 📄 Fundado por Lorenzo Zagallo e mais algumas das minhas habilidades/experiências [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
+- 📄 Skills/Experiences [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
 
 <h3 align="left">My social media:</h3>
 <p align="left">
