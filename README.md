@@ -1,15 +1,15 @@
-<h1 align="center">Oi 👋, Eu sou Lorenzo</h1>
-<h3 align="center">Apaixonado por Ciber Segurança & Análise e Desenvolvimento de Sistemas</h3>
+<h1 align="center">Hi 👋, I'm Lorenzo</h1>
+<h3 align="center">Passionate about Programming and Cybersecurity</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e C/C++**
+- 🌱 Currently I'm learning **C/C++**
 
-- 💬 Me pergunte sobre **HTML5/CSS3, Python, Redes de Computadores e Segurança da Informação**
+- 💬 Ask me about **HTML5/CSS3  C/C++, Redes de Computadores e Segurança da Informação**
 
-- 📫 Você me acha através do **lorenzozb10@gmail.com**
+- 📫 My email: **lorenzozb10@gmail.com**
 
 - 📄 Fundado por Lorenzo Zagallo e mais algumas das minhas habilidades/experiências [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
 
-<h3 align="left">Minhas redes sociais:</h3>
+<h3 align="left">My social media:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/" 
     target="blank">
