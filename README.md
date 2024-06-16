@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">Passionate about Programming and Cybersecurity</h3>
 
-- 🌱 Currently I'm learning **C/C++**
+- 🌱 Currently I'm learning **C++, Java and PostgreSQL**
 
-- 💬 Ask me about **HTML5/CSS3, C/C++, Networks and Cybersecurity**
+- 💬 Ask me about **Back-end, C/C++, Java, Database, Computers Networks and Cybersecurity**
 
 - 📫 Email for contact: **lorenzozb10@gmail.com**
 
