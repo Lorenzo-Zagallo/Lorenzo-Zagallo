@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/" 
     target="blank">
     <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
       alt="https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/" height="30" width="40" />
   </a>
   <a href="https://instagram.com/" target="blank">
