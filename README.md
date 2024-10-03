@@ -19,7 +19,7 @@
   </a>
   <a href="https://instagram.com/" target="blank">
     <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
       alt="@lorenzo_zagallo" height="30" width="40" />
   </a>
 </p>
