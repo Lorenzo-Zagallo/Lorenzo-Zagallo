@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Python, C/C++, Database, Back-end, Computers Networks,Cybersecurity and Software Engineer**
 
-- 📫 Email for contact: **lorenzozb10@gmail.com**
+- 📫 Email for contact: **l.zagallo.dev@gmail.com**
 
 - 📄 Skills/Experiences [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
 
