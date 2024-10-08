@@ -17,7 +17,7 @@ Me pergunte sobre **Java, Python, C/C++, Banco de dados, Back-end, Redes, Cibers
 <strong>Perfil no LinkedIn:</strong> [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
 
 <h3 align="left">Linguagens e ferramentas que mais utilizo:</h3>
-  <p align="left">
+  <p align="left" justify-content="space-between">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
