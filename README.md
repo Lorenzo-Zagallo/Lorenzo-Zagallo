@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">Passionate about Programming and Cybersecurity</h3>
+<h1 align="center">Lorenzo Zagallo</h1>
+<h3 align="center">Apaixonado por Programação</h3>
 
-- 🌱 Currently I'm learning **Python, SQL, Javacript and PostgreSQL**
+<!--
+Atualmente estou aprendendo **Python, SQL, Javacript and PostgreSQL**
+Me pergunte sobre **Java, Python, C/C++, Banco de dados, Back-end, Redes, Cibersegurança e práticas de Engenharia de Software**
+-->
 
-- 💬 Ask me about **Java, Python, C/C++, Database, Back-end, Computers Networks,Cybersecurity and Software Engineer**
+Sobre: Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
 
-- 📫 Email for contact: **l.zagallo.dev@gmail.com**
+Competências e habilidades: Python, Javascript, HTML/CSS, PostgreSQL, Git/Github e Resolução de algoritmos.
 
-- 📄 Skills/Experiences [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
+Experiências: Participei do programa Santander Coders 2024 e apresentei projetos extensionistas em Desenvolvimento Front-end, Python e Cloud Computing que me ajudaram a desenvolver habilidades técnicas e trabalho em equipe.
+
+E-mail profissional: **l.zagallo.dev@gmail.com**
+
+Perfil no LinkedIn: [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
 
 <h3 align="left">My social media:</h3>
 <p align="left">
