@@ -6,15 +6,18 @@ Atualmente estou aprendendo **Python, SQL, Javacript and PostgreSQL**
 Me pergunte sobre **Java, Python, C/C++, Banco de dados, Back-end, Redes, Cibersegurança e práticas de Engenharia de Software**
 -->
 
-<strong>Sobre:</strong> Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
+### Sobre
+Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
 
-<strong>Competências e habilidades:</strong> Python, Javascript, HTML/CSS, PostgreSQL, Git/Github e Resolução de algoritmos.
+### Competências e habilidades
+Python, Javascript, HTML/CSS, PostgreSQL, Git/Github e Resolução de algoritmos.
 
-<strong>Experiências:</strong> Participei do programa Santander Coders 2024 e apresentei projetos extensionistas em Desenvolvimento Front-end, Python e Cloud Computing que me ajudaram a desenvolver habilidades técnicas e trabalho em equipe.
+### Experiências
+Participei do programa Santander Coders 2024 e apresentei projetos extensionistas em Desenvolvimento Front-end, Python e Cloud Computing que me ajudaram a desenvolver habilidades técnicas e trabalho em equipe.
 
-<strong>E-mail profissional:</strong> **l.zagallo.dev@gmail.com**
+#### <a href="l.zagallo.dev@gmail.com">E-mail profissional</a>
 
-<strong>Perfil no LinkedIn:</strong> [https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/)
+#### <a href="https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/">Perfil no Linkedin</a>
 
 <h3 align="left">Linguagens e ferramentas utilizadas nos projetos:</h3>
   <p align="left">
