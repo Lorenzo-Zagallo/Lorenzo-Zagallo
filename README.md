@@ -1,19 +1,15 @@
 <h1 align="center">Lorenzo Zagallo</h1>
 <h3 align="center">Apaixonado por Programação</h3>
 
-<!--
-Atualmente estou aprendendo **Python, SQL, Javacript and PostgreSQL**
-Me pergunte sobre **Java, Python, C/C++, Banco de dados, Back-end, Redes, Cibersegurança e práticas de Engenharia de Software**
--->
-
 ### Sobre
 Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
 
 ### Competências e habilidades
-Python, Javascript, HTML/CSS, PostgreSQL, Git/Github e Resolução de algoritmos.
+Python, Javascript, Node.js, HTML/CSS, Java, Git/Github e Resolução de algoritmos.
 
 ### Experiências
 Participei do programa Santander Coders 2024 e apresentei projetos extensionistas em Desenvolvimento Front-end, Python e Cloud Computing que me ajudaram a desenvolver habilidades técnicas e trabalho em equipe.
+Concluí o programa de Imersão Backend da Alura com a Google Gemini.
 
 #### <a href="l.zagallo.dev@gmail.com">E-mail profissional</a>
 
