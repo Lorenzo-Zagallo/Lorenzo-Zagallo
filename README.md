@@ -5,11 +5,12 @@
 Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
 
 ### Competências e habilidades
-Python, Javascript, Node.js, HTML/CSS, Java, Git/Github e Resolução de algoritmos.
+Javascript, HTML/CSS, Git/Github e Resolução de algoritmos.
 
 ### Experiências
-Participei do programa Santander Coders 2024 e apresentei projetos extensionistas em Desenvolvimento Front-end, Python e Cloud Computing que me ajudaram a desenvolver habilidades técnicas e trabalho em equipe.
-Concluí o programa de Imersão Backend da Alura com a Google Gemini.
+- Participei do programa Santander Coders 2024.
+- Liderança em projeto em Desenvolvimento Front-end sobre Segurança Cibernética.
+- Participação do programa Imersão Backend da Alura com a Google Gemini.
 
 #### <a href="l.zagallo.dev@gmail.com">E-mail profissional</a>
 
@@ -17,10 +18,7 @@ Concluí o programa de Imersão Backend da Alura com a Google Gemini.
 
 <h3 align="left">Linguagens e ferramentas utilizadas nos projetos:</h3>
   <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
