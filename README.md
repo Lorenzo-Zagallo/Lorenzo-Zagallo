@@ -5,7 +5,7 @@
 Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
 
 ### Competências e habilidades
-Javascript, HTML/CSS, Git/Github e Resolução de algoritmos.
+Java, Spring Boot, JPA/Hibernate/, SQL, Javascript, HTML/CSS, Git/Github e Resolução de algoritmos.
 
 ### Experiências
 - Participei do programa Santander Coders 2024.
