@@ -1,30 +1,61 @@
-<h1 align="center">Lorenzo Zagallo</h1>
-<h3 align="center">Apaixonado por Programação</h3>
+# 👨🏻‍💻 Lorenzo Zagallo
 
-### Sobre
-Profissional em início de carreira, cursando atualmente Análise e Desenvolvimento de Sistemas. 
+**Java Developer | Learning Cybersecurity | Análise e Desenvolvimento de Sistemas Student**
 
-### Competências e habilidades
-Java, Spring Boot, JPA/Hibernate/, SQL, Javascript, HTML/CSS, Git/Github e Resolução de algoritmos.
+Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programação e tudo que envolva tecnologia desde que era criança. Profissional em início de carreira, possuo experiência com liderança de projeto, desenvolvimento de diversos trabalhos extensionistas e apresentações de temas relacionados à programação e segurança cibernética.
 
-### Experiências
-- Participei do programa Santander Coders 2024.
-- Liderança em projeto em Desenvolvimento Front-end sobre Segurança Cibernética.
-- Participação do programa Imersão Backend da Alura com a Google Gemini.
+Buscando sempre a constância nos meus projetos e aplicações no dia a dia para o meu aprendizado.
 
-#### <a href="l.zagallo.dev@gmail.com">E-mail profissional</a>
+---
 
-#### <a href="https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9/">Perfil no Linkedin</a>
+### 🌐 Contact
 
-<h3 align="left">Linguagens e ferramentas utilizadas nos projetos:</h3>
-  <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </p>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorenzo-Zagallo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9)
+[![Instagram](https://img.shields.io/badge/-@lorenzo_zagallo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lorenzo_zagallo/)
+##### <a href="mailto:l.zagallo.dev@gmail.com">E-mail profissional</a>
+
+---
+### 🧰 Technologies and Tools
+
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Microsoft SQL Server" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;&nbsp;
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Windows 10" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
+<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+<br/><br/>
+
+---
+
+### 📈 Profile Stats
+
+[![GitHub Followers](https://img.shields.io/github/followers/Lorenzo-Zagallo?label=Followers&style=for-the-badge)](https://github.com/Lorenzo-Zagallo)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lorenzo-Zagallo&style=for-the-badge)](https://github.com/Lorenzo-Zagallo)
+[![Repository Stars](https://img.shields.io/github/stars/Lorenzo-Zagallo?label=Stars&style=for-the-badge)](https://github.com/Lorenzo-Zagallo?tab=stars)
+
+---
+
+### 📊 GitHub Stats
+
+<img 
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-Zagallo&show_icons=true&theme=radical&layout=donut&custom_title=Lorenzo%20Zagallo's%20Top%20Langs" 
+/>
+
+<img 
+  align="left"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Zagallo&show_icons=true&theme=radical&custom_title=Lorenzo%20Zagallo's%20GitHub%%20stats" 
+/>
+
+<br/><br/>
