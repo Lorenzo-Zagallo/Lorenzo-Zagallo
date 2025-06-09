@@ -55,7 +55,7 @@ Buscando sempre a constância nos meus projetos e aplicações no dia a dia para
 <img 
   align="left"
   height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Zagallo&show_icons=true&theme=radical&custom_title=Lorenzo%20Zagallo's%20GitHub%%20stats" 
+  src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Zagallo&show_icons=true&theme=radical&custom_title=Lorenzo%20Zagallo's%20GitHub%20Stats" 
 />
 
 <br/><br/>
