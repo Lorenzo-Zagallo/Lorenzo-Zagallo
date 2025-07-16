@@ -12,7 +12,6 @@ Buscando sempre a constância nos meus projetos e aplicações no dia a dia para
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorenzo-Zagallo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9)
-[![Instagram](https://img.shields.io/badge/-@lorenzo_zagallo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lorenzo_zagallo/)
 ##### <a href="mailto:l.zagallo.dev@gmail.com">E-mail profissional</a>
 
 ---
