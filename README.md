@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Lorenzo Zagallo
 
-**Java Developer | Learning Cybersecurity | Análise e Desenvolvimento de Sistemas Student**
+**C#/Java Developer | Learning Cybersecurity | Análise e Desenvolvimento de Sistemas Student**
 
-Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programação e tudo que envolva tecnologia desde que era criança. Profissional em início de carreira, possuo experiência com liderança de projeto, desenvolvimento de diversos trabalhos extensionistas e apresentações de temas relacionados à programação e segurança cibernética.
+Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programação e tudo que envolva tecnologia desde que era criança. Profissional em início de carreira estagiando em .NET e possuo experiência com liderança de projeto, desenvolvimento de diversos trabalhos extensionistas e apresentações de temas relacionados à programação e segurança cibernética.
 
 Buscando sempre a constância nos meus projetos e aplicações no dia a dia para o meu aprendizado.
 
