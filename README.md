@@ -18,8 +18,8 @@ Oi! Meu nome √© **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programa√
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,ts,angular,cs,dotnet,mysql,java,spring" /><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,c,cpp" /><br/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,angular,js,nodejs,react,mysql" /><br/>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,py,c,cpp" /><br/>
     <img src="https://skillicons.dev/icons?i=git,gitlab,idea,visualstudio,vscode,windows" />
   </a>
 </p>
