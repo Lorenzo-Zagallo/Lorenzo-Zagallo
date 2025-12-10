@@ -2,7 +2,7 @@
 
 **C#/Java Developer | Typescript/Angular | Análise e Desenvolvimento de Sistemas Student**
 
-Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programação e tudo que envolva tecnologia. Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em desenvolvimento back-end .NET. Atuei em projetos de modernização de sistemas e correção de bugs, utilizando C#, .NET, TypeScript, Angular, SQL e APIs REST. Busco uma oportunidade de estágio para aplicar meus conhecimentos em C#, Typescript e SQL, e contribuir para o desenvolvimento de soluções tecnológicas inovadoras.
+Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programação e tudo que envolva tecnologia. Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em desenvolvimento back-end .NET. Atuei em projetos de modernização de sistemas e correção de bugs, utilizando C#, .NET, TypeScript, Angular, SQL e APIs REST. Busco uma oportunidade de trabalho para aplicar meus conhecimentos em .NET, Java e Angular, e contribuir para o desenvolvimento de soluções tecnológicas eficientes e inovadoras para o ecossistema.
 
 ---
 
