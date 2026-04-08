@@ -1,28 +1,38 @@
 # 👨🏻‍💻 Lorenzo Zagallo
 
-**C#/Java Developer | Typescript/Angular | Análise e Desenvolvimento de Sistemas Student**
+**Full Stack Developer | .NET, Java & Angular | AI & Machine Learning Enthusiast**
 
-Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programação e tudo que envolva tecnologia. Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em desenvolvimento back-end .NET. Atuei em projetos de modernização de sistemas e correção de bugs, utilizando C#, .NET, TypeScript, Angular, SQL e APIs REST. Busco uma oportunidade de trabalho para aplicar meus conhecimentos em .NET, Java e Angular, e contribuir para o desenvolvimento de soluções tecnológicas eficientes e inovadoras para o ecossistema.
+Hi! I'm **Lorenzo Zagallo**, a 22-year-old software developer deeply passionate about technology and programming. With practical experience in backend development, I have actively contributed to system modernization projects, bug fixing, and REST API development using **C#, .NET, TypeScript, Angular, and SQL**.
+
+Currently, I am focused on building highly scalable and decoupled systems utilizing **Clean Architecture, DDD, and CQRS**. Leveraging my experience with Python data processing and system integrations, I am also rapidly expanding my expertise into **Artificial Intelligence and Machine Learning**. I am actively studying **PyTorch**, exploring neural networks (`nn.Linear`) and predictive models to bridge the gap between robust backend architectures and intelligent data-driven solutions. 
+
+I am driven by complex challenges and constantly exploring new ways to develop efficient, innovative, and robust technological ecosystems.
+<br/><br/>
 
 ---
 
-### 🌐 Contact
+### 🌐 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorenzo-Zagallo)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-zagallo-07654a2b9)
-##### <a href="mailto:l.zagallo.dev@gmail.com">E-mail profissional</a>
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-3f9dbf?style=for-the-badge)](mailto:l.zagallo.dev@gmail.com)
+
+<br/>
 
 ---
+
 ### 🧰 Technologies and Tools
 
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,angular,js,nodejs,react,mysql" /><br/>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,py,c,cpp" /><br/>
-    <img src="https://skillicons.dev/icons?i=git,gitlab,idea,visualstudio,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,pytorch,nodejs,mysql,sqlite,mongodb" /><br/>
+    <img src="https://skillicons.dev/icons?i=ts,js,angular,react,tailwind,bootstrap,html,css,unity" /><br/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,visualstudio,vscode,windows" />
   </a>
 </p>
+<br/>
+
 <br/>
 
 ---
@@ -32,21 +42,5 @@ Oi! Meu nome é **Lorenzo Zagallo**, tenho 21 anos, sou apaixonado por programa�
 [![GitHub Followers](https://img.shields.io/github/followers/Lorenzo-Zagallo?label=Followers&style=for-the-badge)](https://github.com/Lorenzo-Zagallo)
 [![Profile Views](https://komarev.com/ghpvc/?username=Lorenzo-Zagallo&style=for-the-badge)](https://github.com/Lorenzo-Zagallo)
 [![Repository Stars](https://img.shields.io/github/stars/Lorenzo-Zagallo?label=Stars&style=for-the-badge)](https://github.com/Lorenzo-Zagallo?tab=stars)
-
----
-
-### 📊 GitHub Stats
-
-<img 
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-Zagallo&show_icons=true&theme=radical&layout=donut&custom_title=Lorenzo%20Zagallo's%20Top%20Langs" 
-/>
-
-<img 
-  align="left"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Zagallo&show_icons=true&theme=radical&custom_title=Lorenzo%20Zagallo's%20GitHub%20Stats" 
-/>
 
 <br/><br/>
